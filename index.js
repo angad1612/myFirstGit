@@ -1,3 +1,3 @@
 //CREATE A NEW NODE PROJECT THAT PRINTS OUT "HELLO WORLD"
 
-console.log("Hello World")
+console.log("I caused a merge conflict.")
